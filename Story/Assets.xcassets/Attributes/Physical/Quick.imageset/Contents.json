@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "Darkling_logo.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "sprint.png",
       "scale" : "2x"
     },
     {

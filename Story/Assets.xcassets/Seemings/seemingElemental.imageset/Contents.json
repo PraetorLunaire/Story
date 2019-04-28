@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "Wizened_logo.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "LogoElemental-2.png",
       "scale" : "2x"
     },
     {

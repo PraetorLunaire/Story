@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "LogoElemental-2.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "brain.png",
       "scale" : "2x"
     },
     {
