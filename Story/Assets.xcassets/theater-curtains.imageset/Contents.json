@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "theater-curtains.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "brain_icon_60pt@2x.png",
       "scale" : "2x"
     },
     {

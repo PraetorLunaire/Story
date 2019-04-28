@@ -14,7 +14,7 @@
 		16FD6B032270F20700C052E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16FD6B012270F20700C052E3 /* LaunchScreen.storyboard */; };
 		16FD6B0E2270F20700C052E3 /* StoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6B0D2270F20700C052E3 /* StoryTests.swift */; };
 		16FD6B192270F20700C052E3 /* StoryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6B182270F20700C052E3 /* StoryUITests.swift */; };
-		16FD6B272270F8E200C052E3 /* start.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6B262270F8E200C052E3 /* start.swift */; };
+		16FD6B29227582BC00C052E3 /* questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6B28227582BC00C052E3 /* questions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		16FD6B142270F20700C052E3 /* StoryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		16FD6B182270F20700C052E3 /* StoryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryUITests.swift; sourceTree = "<group>"; };
 		16FD6B1A2270F20700C052E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		16FD6B262270F8E200C052E3 /* start.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = start.swift; sourceTree = "<group>"; };
+		16FD6B28227582BC00C052E3 /* questions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = questions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 				16FD6AFF2270F20700C052E3 /* Assets.xcassets */,
 				16FD6B012270F20700C052E3 /* LaunchScreen.storyboard */,
 				16FD6B042270F20700C052E3 /* Info.plist */,
-				16FD6B262270F8E200C052E3 /* start.swift */,
+				16FD6B28227582BC00C052E3 /* questions.swift */,
 			);
 			path = Story;
 			sourceTree = "<group>";
@@ -260,8 +260,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				16FD6AFB2270F20600C052E3 /* startScreen.swift in Sources */,
+				16FD6B29227582BC00C052E3 /* questions.swift in Sources */,
 				16FD6AF92270F20600C052E3 /* AppDelegate.swift in Sources */,
-				16FD6B272270F8E200C052E3 /* start.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
